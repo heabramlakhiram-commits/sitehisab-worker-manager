@@ -1,0 +1,6 @@
+{
+  "name": "SiteHisab",
+  "description": "Construction Worker Manager app featuring role-based access control, attendance tracking, payment logs, and salary calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
